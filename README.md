@@ -3,6 +3,7 @@
 *Note: this is an older project that I had deleted from GitHub. This repository is a revival of that old project.*
 
 This is a simple app where the user can add books to a library and keep track of the ones that they've read or still have to read.
+The live version of this project can be found [here](https://locallibrary.niconap.dev/).
 
 - Click on the "Add book" button to add a book
 - Insert the Title and the Author's name
