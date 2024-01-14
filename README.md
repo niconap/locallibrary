@@ -1,3 +1,7 @@
+# Local library
+
+*Note: this is an older project that I had deleted from GitHub. This repository is a revival of that old project.*
+
 This is a simple app where the user can add books to a library and keep track of the ones that they've read or still have to read.
 
 - Click on the "Add book" button to add a book
